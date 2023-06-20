@@ -1,0 +1,67 @@
+﻿l_english:
+ #Not intended to be genetic (constraint for full body clothing)
+ body_shape_average_clothed:0 "Constrained By Clothing"
+ #Not intended to be genetic (used for animation testing)
+ body_average:0 "Full Body - Ignore Weight"
+ body_shape_average:0 "Average"
+ body_shape_apple_half:0 "Apple (Half)"
+ body_shape_apple_full:0 "Apple (Full)"
+ body_shape_hourglass_half:0 "Hourglass (Half)"
+ body_shape_hourglass_full:0 "Hourglass (Full)"
+ body_shape_pear_half:0 "Pear (Half)"
+ body_shape_pear_full:0 "Pear (Full)"
+ body_shape_rectangle_half:0 "Rectangle (Half)"
+ body_shape_rectangle_full:0 "Rectangle (Full)"
+ body_shape_triangle_half:0 "Triangle (Half)"
+ body_shape_triangle_full:0 "Triangle (Full)"
+ #Not intended to be genetic (constraint for heavy clothing covering the bust)
+ bust_clothes:0 "Clothed (Strong Constraint)"
+ #Not intended to be genetic (constraint for light clothing covering the bust)
+ bust_clothes_light:0 "Clothed (Light Constraint)"
+ bust_default:0 "Shape 0"
+ bust_shape_1_half:0 "Shape 1 (Half)"
+ bust_shape_1_full:0 "Shape 1 (Full)"
+ bust_shape_2_half:0 "Shape 2 (Half)"
+ bust_shape_2_full:0 "Shape 2 (Full)"
+ bust_shape_3_half:0 "Shape 3 (Half)"
+ bust_shape_3_full:0 "Shape 3 (Full)"
+ bust_shape_4_half:0 "Shape 4 (Half)"
+ bust_shape_4_full:0 "Shape 4 (Full)"
+ gene_age:0 "Aging Type (only visible on older characters)"
+ old_1:0 "Type 1"
+ old_2:0 "Type 2"
+ old_3:0 "Type 3"
+ old_4:0 "Type 4"
+ #Not intended to be (directly) genetic (used for Positive Beauty Traits and Graceful Aging)
+ old_beauty_1:0 "Beauty"
+ #Not intended to be genetic (used for Muhammad) (Seems to treat the age as ~25)
+ no_aging:0 "No Aging"
+ gene_body_hair:0 "Body Hair (mostly for men)"
+ body_hair_sparse:0 "Sparse"
+ body_hair_avg:0 "Average"
+ body_hair_dense:0 "Dense"
+ body_hair_sparse_low_stubble:0 "Sparse, Low Stubble"
+ body_hair_avg_low_stubble:0 "Average, Low Stubble"
+ body_hair_dense_low_stubble:0 "Dense, Low Stubble"
+ #Not intended to be (directly) genetic (Used for Positive Beauty Traits)
+ complexion_beauty_1:0 "Beautiful"
+ #Not intended to be (directly) genetic (Used for Negative Beauty Traits)
+ complexion_ugly_1:0 "Ugly"
+ expression_brow_wrinkles:0 "Brow Wrinkles (only visible on older characters)"
+ brow_wrinkles_01:0 "Brow Wrinkle Type 1"
+ brow_wrinkles_02:0 "Brow Wrinkle Type 2"
+ brow_wrinkles_03:0 "Brow Wrinkle Type 3"
+ brow_wrinkles_04:0 "Brow Wrinkle Type 4"
+ normal_height:0 "Normal"
+ #Not intended to be (directly) genetic (Used for Dwarf Trait)
+ dwarf_height:0 "Dwarf"
+ #Not intended to be (directly) genetic (Used for Giant Trait)
+ giant_height:0 "Giant"
+ expression_forehead_wrinkles:0 "Forehead Wrinkles"
+ forehead_wrinkles_01:0 "Wrinkle Type 1"
+ forehead_wrinkles_02:0 "Wrinkle Type 2"
+ forehead_wrinkles_03:0 "Wrinkle Type 3"
+ expression_other:0 "Other Wrinkles"
+ cheek_wrinkles_both_01:0 "Cheek Wrinkles"
+ #Not intended to be genetic (Used for Animation)
+ nose_wrinkles_01:0 "Nasion Wrinkles"
