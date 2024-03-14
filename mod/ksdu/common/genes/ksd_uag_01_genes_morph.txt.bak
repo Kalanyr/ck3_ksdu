@@ -7708,7 +7708,7 @@ morph_genes = {
 
 	gene_bs_body_shape = { # This gene is used for two things: Basic body shape and gradual musculature (the latter tied to gene strenght and controlled by modifiers)
 
-        group = body
+	    visible = no
 
 	    body_shape_average_clothed = { # Use this for clothes
 			visible = no
