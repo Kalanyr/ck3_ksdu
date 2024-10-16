@@ -1,4 +1,4 @@
-version="1.3"
+version="1.5"
 tags={
 	"Gameplay"
 	"Portraits"
@@ -6,5 +6,5 @@ tags={
 	"Alternative History"
 }
 name="Ruler Designer - Safe Genes Unlocked"
-supported_version="1.12.*"
+supported_version="1.13.*"
 path="mod/ksdu"
